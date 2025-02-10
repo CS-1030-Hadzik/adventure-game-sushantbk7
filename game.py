@@ -15,5 +15,5 @@ print("Your journey begins here...")
 # Ask for the player's name
 player_name = input("what is your name, adventurer?")
 
-# Concatenate strings to create a personalized messafe
+# Concatenate strings to create a personalized message
 print("Welcome, " +player_name + 'Your journey begins now.' ) 
